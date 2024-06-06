@@ -1,0 +1,76 @@
+.botao {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  
+  }
+  
+  .pokemon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .pokedex {
+  
+    text-align: center;
+    background-color: red;
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    border: 2px solid black
+  }
+  
+  .pk{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+  
+  }
+  
+  .nome {
+    color: white;
+    font-size: 30px;
+    margin-top: 15px
+  }
+  
+  .img {
+    background-color: #FF6666;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+  }
+  
+  .cabeca {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 60px;
+    height: 60px;
+    margin-top: 0px;
+  }
+  .botao button{
+  width: 200px;
+  height: 50px;
+  background-color: #FF6666;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  border: 2px solid black ;
+  margin-bottom: 20px;
+  
+  }
+
+  .center{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
